@@ -1,4 +1,4 @@
-# Palindrome Number or not 
+# Palindrome Number or Not 
 
 
 def palindrome_num(n):

@@ -3,10 +3,11 @@
 def printFactors(n):
     num = n
     result = []
-    for i in range(1,num+1):
+    for i in range(1,num//2):
         if num % i == 0:
             result.append(i)
-
+   
+    result.append(num)
     return result    
 
 n = 15

@@ -16,9 +16,7 @@ def second_largest():
         if nums[i]>s_largest and nums[i]!=largest:
             s_largest = nums[i]
 
-    return s_largest        
-
-
+    return s_largest
 
 
 # Optimal Solution

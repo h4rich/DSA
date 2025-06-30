@@ -1,4 +1,4 @@
-# Move Zeros to End 
+# Move Zeros To End 
 
 # Brute Solution 
 
@@ -25,7 +25,7 @@ print(nums)
 
 
 
-# Optimal Solution 
+# Optimal Solution
 
 nums  = [1,0,2,4,3,0,0,3,5,1]
 
@@ -54,6 +54,6 @@ def move_zero(nums):
     
     return nums
 
-    
+   
 print(move_zero(nums))    
     

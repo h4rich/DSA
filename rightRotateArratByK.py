@@ -1,4 +1,4 @@
-# Right rotate an Array by k place
+# Right Rotate an Array by k place
 
 #Brute solution 
 

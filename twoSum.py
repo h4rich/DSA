@@ -18,7 +18,7 @@ print(twoSum(nums,13))
 
 
 
-# Optimal Solution (using dictionary)
+# Optimal Solution (Using Dictionary)
 
 def twoSum(nums, target):
     n = len(nums)

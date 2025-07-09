@@ -1,4 +1,4 @@
-# sort a list using Insertion Sort
+# Sort a list using Insertion Sort
 
 def insertion_sort(nums):
     n = len(nums)

@@ -1,4 +1,4 @@
-# Check if a string is Palindrome or Not using recursion 
+# Check if a String is Palindrome or Not using Recursion 
 
 def isPalindrome(s,left,right):
     if left >=right :

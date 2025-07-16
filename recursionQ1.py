@@ -1,4 +1,4 @@
-# Find the factorial of the Number 
+# Find the Factorial of The Number 
 
 def factorial(num):
     if num == 0 or num == 1:
